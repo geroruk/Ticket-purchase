@@ -1,0 +1,16 @@
+C:\Users\zala2\source\repos\ConsoleApp119\bin\Debug\net5.0\ConsoleApp119.exe
+C:\Users\zala2\source\repos\ConsoleApp119\bin\Debug\net5.0\ConsoleApp119.deps.json
+C:\Users\zala2\source\repos\ConsoleApp119\bin\Debug\net5.0\ConsoleApp119.runtimeconfig.json
+C:\Users\zala2\source\repos\ConsoleApp119\bin\Debug\net5.0\ConsoleApp119.runtimeconfig.dev.json
+C:\Users\zala2\source\repos\ConsoleApp119\bin\Debug\net5.0\ConsoleApp119.dll
+C:\Users\zala2\source\repos\ConsoleApp119\bin\Debug\net5.0\ref\ConsoleApp119.dll
+C:\Users\zala2\source\repos\ConsoleApp119\bin\Debug\net5.0\ConsoleApp119.pdb
+C:\Users\zala2\source\repos\ConsoleApp119\obj\Debug\net5.0\ConsoleApp119.csproj.AssemblyReference.cache
+C:\Users\zala2\source\repos\ConsoleApp119\obj\Debug\net5.0\ConsoleApp119.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zala2\source\repos\ConsoleApp119\obj\Debug\net5.0\ConsoleApp119.AssemblyInfoInputs.cache
+C:\Users\zala2\source\repos\ConsoleApp119\obj\Debug\net5.0\ConsoleApp119.AssemblyInfo.cs
+C:\Users\zala2\source\repos\ConsoleApp119\obj\Debug\net5.0\ConsoleApp119.csproj.CoreCompileInputs.cache
+C:\Users\zala2\source\repos\ConsoleApp119\obj\Debug\net5.0\ConsoleApp119.dll
+C:\Users\zala2\source\repos\ConsoleApp119\obj\Debug\net5.0\ref\ConsoleApp119.dll
+C:\Users\zala2\source\repos\ConsoleApp119\obj\Debug\net5.0\ConsoleApp119.pdb
+C:\Users\zala2\source\repos\ConsoleApp119\obj\Debug\net5.0\ConsoleApp119.genruntimeconfig.cache
